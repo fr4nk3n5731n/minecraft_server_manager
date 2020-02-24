@@ -38,5 +38,5 @@ usage: ./minecraft_server.sh reload
 description: reload all plugins on the server.
 
 ### execute <command>
-usage: ./minecraft_server.sh exeecute [arguments]  
+usage: ./minecraft_server.sh execute [arguments]  
 description: execute given command on minecraft server. For a list of commands for Vanilla Minecraft server go to <https://minecraft.gamepedia.com/Commands>
